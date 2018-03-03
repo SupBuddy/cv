@@ -143,14 +143,14 @@ h2 {
 .skill-bar-wrap {
     height: 17px;
     width: 150px;
-    background: $mainColor;
+    background: #000;
     display: inline-block;
     border-radius: 20px;
 }
 
 .skill-bar {
     height: 17px;
-    background: #fff;
+    background: $mainColor;
     border-radius: 20px 0 0 20px;
 }
 
